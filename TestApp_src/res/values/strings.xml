@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning_no_input">Please enter both numbers</string>
+    <string name="warning_wrong_1st_number">1st number is too big or too small</string>
+    <string name="warning_wrong_2nd_number">2nd number is too big or too small</string>
+    <string name="default_input">0.0</string>
+    
+    <string name="text_plus">+</string>
+    <string name="text_equal">=</string>
+    
+    <string name="btn_calculate">Calculate</string>
+
+</resources>
